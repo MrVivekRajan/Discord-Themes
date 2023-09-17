@@ -10,4 +10,6 @@ Works perfectly with BetterDiscord
 # Preview
 ![preview](https://github.com/developer-vivek/Creamy-Day/assets/85994908/d692b914-bb9e-42f8-8af4-a22fe6d0107e)
 # Credits
-https://github.com/Dyzean
+Dyzean https://github.com/Dyzean
+NYRI4 https://github.com/NYRI4 
+for some addons
