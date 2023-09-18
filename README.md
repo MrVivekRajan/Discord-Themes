@@ -1,5 +1,6 @@
 # Creamy-Day
-Greatings!!! to everyone
+Greatings!! to everyone
+
 This is a creamy coloured theme for Discord.
 Works perfectly with BetterDiscord
 
