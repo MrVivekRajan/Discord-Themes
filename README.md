@@ -8,7 +8,8 @@ Works perfectly with BetterDiscord
 1. Just download the theme from release section
 2. Place it in the BetterDiscord themes folder
 (usually in /.config/BetterDiscord/themes)
-3. Enable Creamy Day from themes tab in BetterDiscord
+3 Enable Dark mode from Appearance Section in Discord 
+4. Enable Creamy Day from themes tab in Discord 
 # Preview
 ![preview](https://github.com/developer-vivek/Creamy-Day/assets/85994908/d692b914-bb9e-42f8-8af4-a22fe6d0107e)
 
