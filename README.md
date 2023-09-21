@@ -9,8 +9,7 @@ Works perfectly with BetterDiscord
 
 2. Place it in the BetterDiscord themes folder
 (usually in /.config/BetterDiscord/themes)
-
-3 Enable Dark mode from Appearance Section in Discord 
+3. Enable Dark mode from Appearance Section in Discord 
 
 4. Enable Creamy Day from themes tab in Discord 
 # Preview
