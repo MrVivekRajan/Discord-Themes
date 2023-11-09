@@ -5,7 +5,7 @@ Here you will find some coloured and a creamy-day theme for Discord
 It Works perfectly with BetterDiscord
 
 # Installation!!
-1. Just download the theme from release section
+1. Just download/clone the theme from the repository section
 
 2. Place it in the BetterDiscord themes folder
 (usually in /.config/BetterDiscord/themes) For Linux
