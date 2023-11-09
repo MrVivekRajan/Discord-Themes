@@ -1,5 +1,5 @@
 # Discord-Themes
-Greatings!! to everyone
+Greetings!! to everyone
 
 Here you will find some coloured and a creamy-day theme for Discord
 It Works perfectly with BetterDiscord
