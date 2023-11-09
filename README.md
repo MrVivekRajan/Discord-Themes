@@ -29,5 +29,5 @@ It Works perfectly with BetterDiscord
 ![orange-d](https://github.com/developer-vivek/Discord-Themes/assets/85994908/60865bd0-6806-4046-8356-7f5572d05a48)
 
 # Thanks for Visiting!!!!
-I hope you guys liked this theme
+I hope you guys liked these themes
 Peace!
