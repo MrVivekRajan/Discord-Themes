@@ -14,6 +14,9 @@ It Works perfectly with BetterDiscord
 4. Enable your desired theme from theme tab in Discord 
 # Preview
 
+# Stylish
+![240306_18h55m51s_screenshot](https://github.com/MrVivekRajan/Discord-Themes/assets/85994908/a2f1ca51-b44f-45ba-9b17-44f6e4a26a07)
+
 # Gruvminimal
 ![240118_20h07m22s_screenshot](https://github.com/developer-vivek/Discord-Themes/assets/85994908/ada3fbe9-40dc-4b98-9f1d-669d79582db5)
 
