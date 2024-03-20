@@ -18,7 +18,7 @@ It Works perfectly with BetterDiscord
 ![240306_18h55m51s_screenshot](https://github.com/MrVivekRajan/Discord-Themes/assets/85994908/a2f1ca51-b44f-45ba-9b17-44f6e4a26a07)
 
 # Gruvminimal
-![240118_20h07m22s_screenshot](https://github.com/developer-vivek/Discord-Themes/assets/85994908/ada3fbe9-40dc-4b98-9f1d-669d79582db5)
+![Gruvminimal-Discord](https://github.com/MrVivekRajan/Discord-Themes/assets/85994908/c049ce4b-8f10-46da-81f9-cf6aac7bc8d9)
 
 # Creamy-Day
 ![preview](https://github.com/developer-vivek/Creamy-Day/assets/85994908/d692b914-bb9e-42f8-8af4-a22fe6d0107e)
