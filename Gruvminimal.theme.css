@@ -14,29 +14,29 @@
   --header-secondary: var(--text-muted);
 
   /*  Text-Color  */
-  --text-normal: #ffffff;
-  --text-muted: #ebdbb1;
+  --text-normal: #ebdbb1;
+  --text-muted: #ebdbb2;
   --interactive-normal: #ebdbb2;
   --interactive-hover: #ffffff;
   --interactive-active: #ebdbb3;
   --interactive-muted: #458588;
 
   /* Background-Color */
-  --background-primary: rgba(38, 32, 31, .68);
-  --background-secondary: rgba(38, 32, 31, .68);
-  --background-secondary-alt: rgba(38, 32, 31, .68);
-  --background-tertiary: rgba(38, 32, 31, .68);
+  --background-primary: rgba(36, 36, 36, .68);
+  --background-secondary: rgba(36, 36, 36, .68);
+  --background-secondary-alt: rgba(36, 36, 36, .68);
+  --background-tertiary: rgba(36, 36, 36, .68);
   --background-tertiary-alt: var(--background-secondary-alt);
-  --background-accent: #d1ba38;
-  --background-floating: #c2c2c9;
+  --background-accent: #32302f;
+  --background-floating: #32302f;
   --background-modifier-hover: #2c2a2a25;
   --background-modifier-active: #5a525229;
   --background-modifier-selected: #555e693d;
   --background-modifier-accent: #06060714;
-  --background-mentioned: #252836;
-  --border-mentioned: #a9afcf;
-  --background-mentioned-hover: #cfd2e9;
-  --accent-color: #34548a;
+  --background-mentioned: #32302f;
+  --border-mentioned: #32302f;
+  --background-mentioned-hover: #ffffff;
+  --accent-color: #282828;
 
   /* Folder-Color */
   --folder-color: #ad9a2b;
