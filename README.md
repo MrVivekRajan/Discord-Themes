@@ -14,6 +14,9 @@ It Works perfectly with BetterDiscord
 4. Enable your desired theme from theme tab in Discord 
 # Preview
 
+# Dark-Mode
+![Discord](https://github.com/MrVivekRajan/Discord-Themes/assets/85994908/f31a344c-a53a-4603-99bc-71a8ffcceb8f)
+
 # Stylish
 ![240306_18h55m51s_screenshot](https://github.com/MrVivekRajan/Discord-Themes/assets/85994908/a2f1ca51-b44f-45ba-9b17-44f6e4a26a07)
 
