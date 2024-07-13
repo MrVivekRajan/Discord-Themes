@@ -14,6 +14,9 @@ It Works perfectly with BetterDiscord
 4. Enable your desired theme from theme tab in Discord 
 # Preview
 
+# Nordic
+![240713_09h58m33s_screenshot](https://github.com/user-attachments/assets/bc05d8bc-6c66-4b53-a14a-15b755dd3e7c)
+
 # Dark-Mode
 ![Discord](https://github.com/MrVivekRajan/Discord-Themes/assets/85994908/f31a344c-a53a-4603-99bc-71a8ffcceb8f)
 
