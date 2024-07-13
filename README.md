@@ -15,7 +15,7 @@ It Works perfectly with BetterDiscord
 # Preview
 
 # Nordic
-![240713_09h58m33s_screenshot](https://github.com/user-attachments/assets/bc05d8bc-6c66-4b53-a14a-15b755dd3e7c)
+![240713_10h00m28s_screenshot](https://github.com/user-attachments/assets/46fe9bf1-911f-472a-8acd-3c41d551be21)
 
 # Dark-Mode
 ![Discord](https://github.com/MrVivekRajan/Discord-Themes/assets/85994908/f31a344c-a53a-4603-99bc-71a8ffcceb8f)
